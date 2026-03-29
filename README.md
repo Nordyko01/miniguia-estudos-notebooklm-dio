@@ -1,4 +1,5 @@
 # Projeto de Pesquisa: **Miniguia-Estudos-Notebooklm-Dio**
+#Para quem quer aprender sobre boas práticas e organização de código.
 
 Este repositório contém os estudos realizados utilizando o **NotebookLM**.
 
