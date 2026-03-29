@@ -1,0 +1,11 @@
+Projetar o código pensando em testes é uma prática fundamental da engenharia de software porque a **testabilidade** é considerada um dos pilares da qualidade do código. Essa abordagem garante que o software se comporte conforme o esperado e previne falhas inesperadas antes e durante a implantação.
+
+Os principais benefícios de projetar com foco em testes incluem:
+
+*   **Identificação Precoce e Redução de Custos**: Projetar para que o código seja testável permite identificar problemas precocemente, quando ainda são fáceis e baratos de corrigir. Testes insuficientes ou inexistentes aumentam drasticamente as chances de bugs aparecerem em produção.
+*   **Melhoria no Design e Simplicidade**: O código projetado para ser fácil de testar tende a ser **menos complexo em cada componente**. Metodologias como o Desenvolvimento Orientado a Testes (**TDD**) colocam os testes na frente do processo de desenvolvimento, servindo como um guia que resulta em códigos mais resilientes, fáceis de manter e menos propensos a defeitos. Além disso, essa prática incentiva a criação de classes com **responsabilidades bem definidas**.
+*   **Rede de Segurança para Mudanças**: Um sistema adequadamente testado elimina o receio de fazer melhorias ou refatorações. Os testes funcionam como uma rede de segurança que permite ao desenvolvedor alterar a estrutura do código para torná-lo mais eficiente sem o risco de quebrar funcionalidades existentes.
+*   **Documentação do Comportamento**: Testes unitários abrangentes servem como uma forma de **documentação viva**, pois ilustram claramente como as diferentes partes do software devem se comportar em diversos cenários.
+*   **Facilitação da Manutenção**: O Clean Code é altamente testável, o que facilita a escrita de testes automatizados e garante que a qualidade do software seja mantida ao longo do tempo, mesmo quando novos desenvolvedores assumem o projeto.
+
+Em suma, projetar pensando em testes não é apenas sobre encontrar erros, mas sobre construir uma base sólida que sustenta o **desenvolvimento ágil, a colaboração eficaz e a sustentabilidade** do software a longo prazo.

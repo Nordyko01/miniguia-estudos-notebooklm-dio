@@ -1,0 +1,3 @@
+O acrônimo **SOLID** refere-se a cinco princípios fundamentais da programação orientada a objetos, que são: **Single Responsibility** (Responsabilidade Única), **Open/Closed** (Aberto/Fechado), **Liskov Substitution** (Substituição de Liskov), **Interface Segregation** (Segregação de Interface) e **Dependency Inversion** (Inversão de Dependência).
+
+O seu **objetivo principal** é atuar como uma base ou "pedra angular" para o desenvolvimento de softwares que sejam **escaláveis** e de **fácil manutenção**. Ao seguir esses princípios, os desenvolvedores conseguem criar códigos mais robustos, facilitando a evolução do sistema e a colaboração entre equipes, uma vez que a estrutura se torna mais clara e menos propensa a erros durante alterações futuras.
